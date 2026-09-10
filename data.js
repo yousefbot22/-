@@ -12,7 +12,7 @@ const AppData = {
         siteDescription: "",
         primaryColor: "#ff4d6d",
         background: "",
-        startDate: "2026-09-04T00:00:00+03:00",
+        startDate: "2022-12-26T00:00:00+03:00",
         sitePassword: "26/12/2022",
         siteSubtitle: "من بداية قصتنا إلى كل لحظة جميلة عشناها"
     },
